@@ -23,6 +23,8 @@
         const inclVAT = localStorage.getItem("inclVAT") === "true";
         const market = window.ShopMarket || "";
 
+        console.log(market);
+      
         vatInfoEls.forEach((el) => {
             if (inclVAT) {
                 if (market === "de") {
