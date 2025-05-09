@@ -49,7 +49,7 @@
         let finalPrice = basePrice;
 
         if (inclVAT) {
-            if (market === "de") {
+            if (market === "de" || market === "eu-ausland") {
                 finalPrice = basePrice * 1.19;
             } else if (market === "at") {
                 finalPrice = basePrice * 1.20;
