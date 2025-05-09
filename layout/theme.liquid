@@ -27,7 +27,7 @@
       
         vatInfoEls.forEach((el) => {
             if (inclVAT) {
-                if (market === "de") {
+                if (market === "de" || market === "eu-ausland") {
                     el.textContent = "inkl. 19 % MwSt.";
                 } else if (market === "at") {
                     el.textContent = "inkl. 20 % MwSt.";
