@@ -5,6 +5,10 @@
 /*
 * Custom CSS Start
 */
+#CheckOut-exemptify {
+  margin-top: 1.125rem;
+}
+
 .product-item__price span:not(:first-child) {
   padding-inline-start: 0rem !important;
 }
