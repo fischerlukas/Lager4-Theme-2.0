@@ -283,8 +283,8 @@
         }
       },
       "18171216174956455555": {
-        "type": "shopify://apps/delivery-pickup/blocks/odd-block/80605365-b4f4-42ba-9b84-3d39984a49dc",
-        "disabled": true,
+        "type": "shopify://apps/order-delivery-date/blocks/odd-block/80605365-b4f4-42ba-9b84-3d39984a49dc",
+        "disabled": false,
         "settings": {}
       },
       "17530695623102652971": {
