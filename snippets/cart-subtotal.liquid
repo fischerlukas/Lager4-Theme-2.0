@@ -93,20 +93,16 @@
           </button>
         
           <div class="uid-panel">
-            <label for="uid-input">Umsatzsteuer-ID (UID)</label>
-            <input type="text" id="uid-input" name="uid" placeholder="z. B. ATU12345678" />
+            <!--<label for="uid-input">Umsatzsteuer-ID (UID)</label>
+            <input type="text" id="uid-input" name="uid" placeholder="z. B. ATU12345678" />-->
 			  <div id="ExemptifyCartValidationSnippet" style="">
 				  <script async="" src="//www.modules4u.biz/shopify/exemptify/js/validate_vat_v1.js.php?shop=6bd7ab-2.myshopify.com&amp;country=AT&amp;vat=&amp;off&amp;style=&amp;inc_style=&amp;vat_included_setting=false&amp;"></script>
 
-				  <div><div style="font-size:1.3em;">
-						  UID Nummer Verifizierung
-
-					  </div>
-					  <div style="font-size:0.8em;">
-						  (MwSt. wird im nächsten Schritt abgezogen)
-
-					  </div>
-					  <input type="text" placeholder="UID-Nummer" email_ph="E-Mail" id="VatId" name="exemptify_dummy" value="" maxlength="20" style="max-width:160px;padding:10px;"><input type="text" placeholder="E-Mail" email_ph="E-Mail" id="exemptify_email" name="exemptify_email" value="" maxlength="150" style="max-width:160px;padding:10px;">
+				  <div>
+					  <label>Umsatzsteuer-ID (UID)</label>
+					  <label class="uid-subtext">(MwSt. wird im nächsten Schritt abgezogen)</label>
+					  <input type="text" placeholder="z. B. ATU12345678" email_ph="E-Mail" id="VatId" name="exemptify_dummy" value="" maxlength="20" style="max-width:160px;padding:10px; width: 100%;">
+					  <input type="text" placeholder="E-Mail Adresse" email_ph="E-Mail Adresse" id="exemptify_email" name="exemptify_email" value="" maxlength="150" style="max-width:160px;padding:10px;width: 100%;">
 					  <div id="ValidStatus"><img id="StatusImg" loading="lazy" style="width: 28px;"></div>
 					  <div id="ErrMsg"></div>
 					  <input id="CustomerId" type="hidden" value="">
