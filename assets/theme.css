@@ -763,11 +763,11 @@ span.button__text.text-weight--.text-size-- {
 
 
 
-#element-template--19398290833732__1662457455386507d1 > div > div.slider-vertical__text.align-content--horizontal-center.align-content--vertical-middle.container--large > div > div:nth-child(3) > a > span.button__icon > svg > path {  
+#element-template--19398290833732__1662457455386507d1 > div > div.slider-vertical__text.align-content--horizontal-center.align-content--vertical-middle.container--large > div > div:nth-child(3) > a > span.button__icon > svg > path {
   fill: #fff !important;
 }
 
-#shopify-section-template--19398290833732__1664349396209e8e9d > div > css-slider > div.css-slider-viewport > div > div > div > div.js-collection-item {
+#shopify-section-template--25020235120964__1664349396209e8e9d > div > css-slider > div.css-slider-viewport > div > div > div > div.js-collection-item {
   -webkit-box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, .75);
   -moz-box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, .75);
   box-shadow: 0 0 30px -10px #0000004d;
@@ -777,7 +777,7 @@ span.button__text.text-weight--.text-size-- {
   scroll-snap-align: unset;
 }
 
-#shopify-section-template--19398290833732__1664349396209e8e9d > div > css-slider > div.css-slider-viewport > div > div > div > div.js-collection-item:hover {
+#shopify-section-template--25020235120964__1664349396209e8e9d > div > css-slider > div.css-slider-viewport > div > div > div > div.js-collection-item:hover {
   -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, .75);
   -moz-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, .75);
   box-shadow: 0 0 30px 0px #0000004d;
@@ -787,43 +787,43 @@ span.button__text.text-weight--.text-size-- {
   scroll-snap-align: unset;
 }
 
-#shopify-section-template--19398290833732__1664349396209e8e9d > div > css-slider > div.css-slider-viewport > div > div > div > div.js-collection-item > a:hover > div.card__image > figure > img {
+#shopify-section-template--25020235120964__1664349396209e8e9d > div > css-slider > div.css-slider-viewport > div > div > div > div.js-collection-item > a:hover > div.card__image > figure > img {
   clip-path: unset !important;
   top: unset !important;
 }
-#shopify-section-template--19398290833732__1664349396209e8e9d > div > css-slider > div.css-slider-viewport > div > div > div > div {
+#shopify-section-template--25020235120964__1664349396209e8e9d > div > css-slider > div.css-slider-viewport > div > div > div > div {
   margin-left: calc(40px / 2);
   width: 100%;
 }
 
-#shopify-section-template--19398290833732__1664349396209e8e9d > div > css-slider > div.css-slider-viewport > div > div > div > div:last-child {
+#shopify-section-template--25020235120964__1664349396209e8e9d > div > css-slider > div.css-slider-viewport > div > div > div > div:last-child {
   margin-left: calc(40px / 2);
   margin-right: calc(40px / 2);
   width: 100%;
 }
 
-#shopify-section-template--19398290833732__1664349396209e8e9d > div > css-slider > div.css-slider-viewport > div > div > div > div.js-collection-item > a > div.gutter-top--regular {
+#shopify-section-template--25020235120964__1664349396209e8e9d > div > css-slider > div.css-slider-viewport > div > div > div > div.js-collection-item > a > div.gutter-top--regular {
   padding-bottom: var(--gutter-regular);
 }
 
-#shopify-section-template--19398290833732__1664349396209e8e9d > div > css-slider > div.css-slider-viewport > div > div > div.grid {
+#shopify-section-template--25020235120964__1664349396209e8e9d > div > css-slider > div.css-slider-viewport > div > div > div.grid {
   --col-gap: 40px;
   --col-size: calc( (100% - var(--col-gap) * var(--visible-cols) ) / var(--visible-cols) );
   grid-gap: 40px;
 }
 
-#shopify-section-template--19398290833732__1664349396209e8e9d > div > div {
+#shopify-section-template--25020235120964__1664349396209e8e9d > div > div {
   padding-left: var(--gutter-container);
   padding-right: var(--gutter-container);
 }
 
-#shopify-section-template--19398290833732__1664349396209e8e9d > div {
+#shopify-section-template--25020235120964__1664349396209e8e9d > div {
   padding-left: 0;
   padding-right: 0;
   
 }
 
-#shopify-section-template--19398290833732__1664349396209e8e9d > div > css-slider > div.css-slider-viewport > div > div > div {
+#shopify-section-template--25020235120964__1664349396209e8e9d > div > css-slider > div.css-slider-viewport > div > div > div {
   padding: 30px 0 30px 0;
 }
 /*
