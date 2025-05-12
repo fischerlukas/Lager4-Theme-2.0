@@ -257,6 +257,19 @@
           "currency_code_enabled": false
         }
       },
+      "17530695623102652971": {
+        "type": "shopify://apps/exemptify/blocks/ExemptifyApp/53648040-92ea-472b-92a5-eb781e92b01b",
+        "disabled": false,
+        "settings": {
+          "execution_mode": "async",
+          "additional_qs": "&"
+        }
+      },
+      "18171216174956455555": {
+        "type": "shopify://apps/delivery-pickup/blocks/odd-block/80605365-b4f4-42ba-9b84-3d39984a49dc",
+        "disabled": true,
+        "settings": {}
+      },
       "13259502948195434395": {
         "type": "shopify://apps/comingsoon/blocks/comingsoon/fc4b774b-7b88-488d-91a2-5dd1f6d449a9",
         "disabled": true,
@@ -280,19 +293,6 @@
           "comingsoon_tiktok_link": "",
           "show_comingsoon_pinterest_icon": false,
           "comingsoon_pinterest_link": ""
-        }
-      },
-      "18171216174956455555": {
-        "type": "shopify://apps/delivery-pickup/blocks/odd-block/80605365-b4f4-42ba-9b84-3d39984a49dc",
-        "disabled": true,
-        "settings": {}
-      },
-      "17530695623102652971": {
-        "type": "shopify://apps/exemptify/blocks/ExemptifyApp/53648040-92ea-472b-92a5-eb781e92b01b",
-        "disabled": false,
-        "settings": {
-          "execution_mode": "async",
-          "additional_qs": "&"
         }
       }
     }
