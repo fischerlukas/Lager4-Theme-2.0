@@ -189,6 +189,22 @@
       "popups": {
         "type": "popups",
         "blocks": {
+          "custom_6VNWm9": {
+            "type": "custom",
+            "disabled": true,
+            "settings": {
+              "enable": true,
+              "visibility": "cart",
+              "title": "Lieferhinweise",
+              "content": "",
+              "show_after": 1,
+              "show_repeat": "week",
+              "box_size": "small",
+              "popup_bgcolor": "#111111",
+              "popup_txtcolor": "#ffffff",
+              "popup_box_shadow": true
+            }
+          },
           "popups-0": {
             "type": "cookies",
             "disabled": true,
@@ -202,6 +218,7 @@
           },
           "popups-1": {
             "type": "newsletter",
+            "disabled": true,
             "settings": {
               "enable": false,
               "visibility": "all",
@@ -216,6 +233,7 @@
           }
         },
         "block_order": [
+          "custom_6VNWm9",
           "popups-0",
           "popups-1"
         ],
