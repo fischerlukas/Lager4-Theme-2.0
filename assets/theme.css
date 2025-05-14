@@ -6,7 +6,7 @@
 * Custom CSS Start
 */
 div.flex-buttons > #CheckOut-exemptify {
-  display: none;
+  display: none !important;
 }
 
 #ViewCart {
