@@ -65,6 +65,11 @@
 }
 
 /* UID-Toggle */
+div.sidebar__footer > #AjaxCartSubtotal > div > div.uid-toggle-wrapper {
+  display: none;
+}
+
+
 .uid-toggle-wrapper {
   margin-top: 1.5rem;
   border: 1px solid #e0e0e0;
