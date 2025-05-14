@@ -5,6 +5,10 @@
 /*
 * Custom CSS Start
 */
+div.flex-buttons > #CheckOut-exemptify {
+  display: none;
+}
+
 #ViewCart {
   margin-top: 0;
   height: 48px;
