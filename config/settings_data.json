@@ -283,14 +283,9 @@
           "additional_qs": "&"
         }
       },
-      "6468128024931565999": {
-        "type": "shopify://apps/seguno-popups/blocks/popup-app-embed/f53bd66f-9a20-4ce2-ae2e-ccbd0148bd4b",
-        "disabled": true,
-        "settings": {}
-      },
       "13259502948195434395": {
         "type": "shopify://apps/comingsoon/blocks/comingsoon/fc4b774b-7b88-488d-91a2-5dd1f6d449a9",
-        "disabled": false,
+        "disabled": true,
         "settings": {
           "template_choice": "custom_gradient",
           "heading": "Bald ist es soweit!",
