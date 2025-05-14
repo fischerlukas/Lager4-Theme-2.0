@@ -1244,7 +1244,7 @@ div.product-text.element--is-sticky.remove-empty-space > div.product-actions > d
 
 .button--solid {
   background-color: #ff6700 !important;
-  box-shadow: #32325d33 0 5px 20px -5px, #0000004d 0 8px 16px -8px;
+  box-shadow: #32325d33 0 5px 20px -3px, #0000004d 0 8px 16px -8px;
   border: 0px !important;
 }
 
