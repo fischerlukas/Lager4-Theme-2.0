@@ -97,19 +97,6 @@
             <input type="text" id="uid-input" name="uid" placeholder="z. B. ATU12345678" />-->
 			  <div id="ExemptifyCartValidationSnippet" style="">
 				  <script async="" src="//www.modules4u.biz/shopify/exemptify/js/validate_vat_v1.js.php?shop=6bd7ab-2.myshopify.com&amp;country=AT&amp;vat=&amp;off&amp;style=&amp;inc_style=&amp;vat_included_setting=false&amp;"></script>
-
-				  <!--<div class="uid-panel">
-					  <label>Umsatzsteuer-ID (UID)</label>
-					  <input type="text" placeholder="z. B. ATU12345678" email_ph="z. B. office@musterunternehmen.com" id="VatId" name="exemptify_dummy" value="" maxlength="20" style="padding:10px; width: 100%;">
-					  <p></p>
-					  <label>Email-Adresse</label>
-					  <input type="text" placeholder="z. B. office@musterunternehmen.com" email_ph="z. B. office@musterunternehmen.com" id="exemptify_email" name="exemptify_email" value="" maxlength="150" style="padding:10px;width: 100%;">
-					  <label class="uid-subtext" style="display: block;text-align: center;">(MwSt. wird im nächsten Schritt aktualisiert)</label>
-					  <div id="ValidStatus"><img id="StatusImg" loading="lazy" style="width: 28px;"></div>
-					  <div id="ErrMsg"></div>
-					  <input id="CustomerId" type="hidden" value="">
-					  <input id="ShopCtyId" type="hidden" value="AT">
-				  </div>-->
 				  <div>
 					  <label>Umsatzsteuer-ID (UID)</label>
 					  <input type="text" placeholder="z. B. DE123456789" email_ph="E-Mail" id="VatId" name="exemptify_dummy" value="" maxlength="20" style="padding:10px;width: 100%;outline: none !important;
@@ -135,7 +122,7 @@
 
 		<div {% unless template contains 'cart' %} class="flex-buttons" {% endunless %}>
 			{%- unless type == 'page' -%}
-				<a id="ViewCart" href="{{ routes.cart_url }}" class="button button--regular button--outline button--move">
+				<a id="ViewCart" href="{{ routes.cart_url }}" class="button button--regular button--solid button--move">
 					<span class="button__text">{{ 'cart.view_cart' | t }}</span>
 				</a>
 			{%- endunless -%}
