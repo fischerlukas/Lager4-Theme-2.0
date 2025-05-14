@@ -3636,7 +3636,7 @@ html[dir=ltr] .button--loader .button__preloader-element {
   overflow: hidden;
 }
 .no-touchevents .button--move:hover .button__text {
-  animation: move 350ms ease-in-out forwards;
+
 }
 .button--no-padding {
   padding: 0;
