@@ -23,7 +23,7 @@
       "type": "custom-liquid",
       "name": "t:sections.refactor_words.custom_code.name",
       "settings": {
-        "custom_liquid": "{{shop.terms_of_service.body}}",
+        "custom_liquid": "{{shop.legal_notice.body}}",
         "full_width": false,
         "remove_margin": false
       }
