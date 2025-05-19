@@ -203,7 +203,7 @@
           "type": "text",
           "settings": {
             "title": "Sind die Ständer bei Lieferung bereits vormontiert?",
-            "subtitle": "Question subtitle",
+            "subtitle": "",
             "icon": "no-icon",
             "button_label": "",
             "button_link": "",
