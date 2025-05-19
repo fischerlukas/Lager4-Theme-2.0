@@ -199,6 +199,17 @@
             "image": "shopify://shop_images/Feldlasten_LR_cb97c1ccd2096463110e777ec2a8eef6.jpg"
           }
         },
+        "text_FNen3w": {
+          "type": "text",
+          "settings": {
+            "title": "Sind die Ständer bei Lieferung bereits vormontiert?",
+            "subtitle": "Question subtitle",
+            "icon": "no-icon",
+            "button_label": "",
+            "button_link": "",
+            "body": "<p>Um die Lieferung so effizient wie möglich zu halten werden die Ständerbaugruppen unmontiert geliefert. Die Montage gestaltet sich sehr schnell und einfach. Eine Montageanleitung findet sich oben verlinkt.</p>"
+          }
+        },
         "text_qhGynW": {
           "type": "text",
           "settings": {
@@ -257,6 +268,7 @@
       },
       "block_order": [
         "text_MfAq3a",
+        "text_FNen3w",
         "text_qhGynW",
         "text_M8H34k",
         "text_AzqAWX",
