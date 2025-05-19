@@ -12,7 +12,7 @@
     "main": {
       "type": "main-page",
       "settings": {
-        "center": true,
+        "center": false,
         "page_cover_metafield": "",
         "color_background_main": "rgba(0,0,0,0)",
         "color_text_main": "rgba(0,0,0,0)",
