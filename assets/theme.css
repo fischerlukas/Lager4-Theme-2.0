@@ -774,11 +774,11 @@ span.button__text.text-weight--.text-size-- {
 
 
 
-#element-template--19398290833732__1662457455386507d1 > div > div.slider-vertical__text.align-content--horizontal-center.align-content--vertical-middle.container--large > div > div:nth-child(3) > a > span.button__icon > svg > path {
+div > div.slider-vertical__text.align-content--horizontal-center.align-content--vertical-middle.container--large > div > div:nth-child(3) > a > span.button__icon > svg > path {
   fill: #fff !important;
 }
 
-#shopify-section-template--25020235120964__1664349396209e8e9d > div > css-slider > div.css-slider-viewport > div > div > div > div.js-collection-item {
+div > css-slider > div.css-slider-viewport > div > div > div > div.js-collection-item {
   -webkit-box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, .75);
   -moz-box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, .75);
   box-shadow: 0 0 30px -10px #0000004d;
@@ -788,7 +788,7 @@ span.button__text.text-weight--.text-size-- {
   scroll-snap-align: unset;
 }
 
-#shopify-section-template--25020235120964__1664349396209e8e9d > div > css-slider > div.css-slider-viewport > div > div > div > div.js-collection-item:hover {
+div > css-slider > div.css-slider-viewport > div > div > div > div.js-collection-item:hover {
   -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, .75);
   -moz-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, .75);
   box-shadow: 0 0 30px 0px #0000004d;
@@ -798,26 +798,27 @@ span.button__text.text-weight--.text-size-- {
   scroll-snap-align: unset;
 }
 
-#shopify-section-template--25020235120964__1664349396209e8e9d > div > css-slider > div.css-slider-viewport > div > div > div > div.js-collection-item > a:hover > div.card__image > figure > img {
+div > css-slider > div.css-slider-viewport > div > div > div > div.js-collection-item > a:hover > div.card__image > figure > img {
   clip-path: unset !important;
   top: unset !important;
 }
-#shopify-section-template--25020235120964__1664349396209e8e9d > div > css-slider > div.css-slider-viewport > div > div > div > div {
+
+div > css-slider > div.css-slider-viewport > div > div > div > div {
   margin-left: calc(40px / 2);
   width: 100%;
 }
 
-#shopify-section-template--25020235120964__1664349396209e8e9d > div > css-slider > div.css-slider-viewport > div > div > div > div:last-child {
+div > css-slider > div.css-slider-viewport > div > div > div > div:last-child {
   margin-left: calc(40px / 2);
   margin-right: calc(40px / 2);
   width: 100%;
 }
 
-#shopify-section-template--25020235120964__1664349396209e8e9d > div > css-slider > div.css-slider-viewport > div > div > div > div.js-collection-item > a > div.gutter-top--regular {
+div > css-slider > div.css-slider-viewport > div > div > div > div.js-collection-item > a > div.gutter-top--regular {
   padding-bottom: var(--gutter-regular);
 }
 
-#shopify-section-template--25020235120964__1664349396209e8e9d > div > css-slider > div.css-slider-viewport > div > div > div.grid {
+div > css-slider > div.css-slider-viewport > div > div > div.grid {
   --col-gap: 40px;
   --col-size: calc( (100% - var(--col-gap) * var(--visible-cols) ) / var(--visible-cols) );
   grid-gap: 40px;
@@ -1325,7 +1326,7 @@ div.header__bottom.container--large {
 /*
 * Collection List Start
 */
- div.container.container--large.container--vertical-space-small.remove-empty-space > div.grid.grid--layout.grid-3.grid-lap-2.grid-tiny-1 > div {
+div.container.container--large.container--vertical-space-small.remove-empty-space > div.grid.grid--layout.grid-3.grid-lap-2.grid-tiny-1 > div {
   -webkit-box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, .75);
   -moz-box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, .75);
   box-shadow: 0 0 30px -10px #0000004d;
@@ -1334,7 +1335,7 @@ div.header__bottom.container--large {
   transition: 0.3s;
 }
 
- div.container.container--large.container--vertical-space-small.remove-empty-space > div.grid.grid--layout.grid-3.grid-lap-2.grid-tiny-1 > div:hover {
+div.container.container--large.container--vertical-space-small.remove-empty-space > div.grid.grid--layout.grid-3.grid-lap-2.grid-tiny-1 > div:hover {
   -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, .75);
   -moz-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, .75);
   box-shadow: 0 0 30px 0px #0000004d;
@@ -1343,7 +1344,7 @@ div.header__bottom.container--large {
   
 }
 
- div.container.container--large.container--vertical-space-small.remove-empty-space > div.grid.grid--layout.grid-3.grid-lap-2.grid-tiny-1 > div > a > div.gutter-top--regular.spacing--xsmall.remove-empty-space {
+div.container.container--large.container--vertical-space-small.remove-empty-space > div.grid.grid--layout.grid-3.grid-lap-2.grid-tiny-1 > div > a > div.gutter-top--regular.spacing--xsmall.remove-empty-space {
   padding-bottom: 20px;
 }
 
