@@ -1325,7 +1325,7 @@ div.header__bottom.container--large {
 /*
 * Collection List Start
 */
-#shopify-section-template--25020235252036__main > div.container.container--large.container--vertical-space-small.remove-empty-space > div.grid.grid--layout.grid-3.grid-lap-2.grid-tiny-1 > div {
+ div.container.container--large.container--vertical-space-small.remove-empty-space > div.grid.grid--layout.grid-3.grid-lap-2.grid-tiny-1 > div {
   -webkit-box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, .75);
   -moz-box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, .75);
   box-shadow: 0 0 30px -10px #0000004d;
@@ -1334,7 +1334,7 @@ div.header__bottom.container--large {
   transition: 0.3s;
 }
 
-#shopify-section-template--25020235252036__main > div.container.container--large.container--vertical-space-small.remove-empty-space > div.grid.grid--layout.grid-3.grid-lap-2.grid-tiny-1 > div:hover {
+ div.container.container--large.container--vertical-space-small.remove-empty-space > div.grid.grid--layout.grid-3.grid-lap-2.grid-tiny-1 > div:hover {
   -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, .75);
   -moz-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, .75);
   box-shadow: 0 0 30px 0px #0000004d;
@@ -1343,11 +1343,11 @@ div.header__bottom.container--large {
   
 }
 
-#shopify-section-template--25020235252036__main > div.container.container--large.container--vertical-space-small.remove-empty-space > div.grid.grid--layout.grid-3.grid-lap-2.grid-tiny-1 > div > a > div.gutter-top--regular.spacing--xsmall.remove-empty-space {
+ div.container.container--large.container--vertical-space-small.remove-empty-space > div.grid.grid--layout.grid-3.grid-lap-2.grid-tiny-1 > div > a > div.gutter-top--regular.spacing--xsmall.remove-empty-space {
   padding-bottom: 20px;
 }
 
-#shopify-section-template--25020235252036__main > div.container.container--large.container--vertical-space-small.remove-empty-space > div.grid.grid--layout.grid-3.grid-lap-2.grid-tiny-1 > div > a:hover .lazy-image.lazy-image--animation img {
+ div.container.container--large.container--vertical-space-small.remove-empty-space > div.grid.grid--layout.grid-3.grid-lap-2.grid-tiny-1 > div > a:hover .lazy-image.lazy-image--animation img {
   clip-path: unset !important;
   top: unset !important;
 }
