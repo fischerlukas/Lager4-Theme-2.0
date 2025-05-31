@@ -31,6 +31,7 @@
   transition: .5s !important;
   border: 0px !important;
   box-shadow: #32325d33 0 5px 20px -5px,#0000004d 0 8px 16px -8px;
+  border-radius: 24px !important;
 }
 
   /* Filter styling End*/
