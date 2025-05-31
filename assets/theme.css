@@ -14,13 +14,13 @@
 }
 
 .shopify-pc__banner__btn-accept {
-  height: 48px;
-  border-radius: 24px;
+  height: 48px !important;
+  border-radius: 24px !important;
 }
 
 .shopify-pc__banner__btn-decline {
-  height: 48px;
-  border-radius: 24px;
+  height: 48px !important;
+  border-radius: 24px !important;
 }
 /* Cookie Banner End*/
 
