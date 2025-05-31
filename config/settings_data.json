@@ -285,13 +285,14 @@
       },
       "13259502948195434395": {
         "type": "shopify://apps/comingsoon/blocks/comingsoon/fc4b774b-7b88-488d-91a2-5dd1f6d449a9",
-        "disabled": false,
+        "disabled": true,
         "settings": {
           "template_choice": "custom_gradient",
           "heading": "Bald ist es soweit!",
           "subheading": "Wir überarbeiten gerade unseren Onlineshop um Ihnen in Zukunft ein noch besseres Einkaufserlebnis zu bieten.",
           "end_time": "08/06/2025 23:00:00",
           "bg_color": "linear-gradient(45deg, rgba(255, 255, 255, 1), rgba(116, 116, 116, 1) 94%)",
+          "isBlackIcons": true,
           "show_comingsoon_facebook_icon": false,
           "comingsoon_facebook_link": "",
           "show_comingsoon_twitter_icon": false,
