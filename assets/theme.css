@@ -26,8 +26,8 @@
 
 /* Filter styling Start*/
 .facets__summary {
-  background: #ff6700;
-  color: #ffffff;
+  background-color: #ff6700;
+  color: #ffffff !important;
   transition: .5s !important;
   border: 0px !important;
   box-shadow: #32325d33 0 5px 20px -5px,#0000004d 0 8px 16px -8px;
