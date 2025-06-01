@@ -290,7 +290,7 @@
       },
       "13259502948195434395": {
         "type": "shopify://apps/comingsoon/blocks/comingsoon/fc4b774b-7b88-488d-91a2-5dd1f6d449a9",
-        "disabled": true,
+        "disabled": false,
         "settings": {
           "template_choice": "custom_gradient",
           "heading": "Bald ist es soweit!",
