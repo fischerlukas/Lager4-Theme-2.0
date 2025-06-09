@@ -22,7 +22,7 @@ div.slider-vertical__text > div > div:nth-child(2) {
 div.slider-vertical__text > div > div:nth-child(2) > h3 > p {
   background: rgba(0, 0, 0, 0.4);
   color: #fff;
-  padding: 2px 20px 2px 20px;
+  padding: 1px 20px 1px 20px;
   display: inline;
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone; /* Für Safari/Chrome */
