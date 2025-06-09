@@ -16,12 +16,14 @@
 }
 
 div.slider-vertical__text > div > div:nth-child(2) {
-  background-color: rgba(0,0,0,0.3);
+
 }
 
-div.slider-vertical__text > div > div:nth-child(2) > h3 {
+div.slider-vertical__text > div > div:nth-child(2) > h3::before {
+  background-color: #fff;
   color: #fff;
   padding: 0 20px 0 20px;
+  z-index: 40;
 }
 /* Slider End*/
 
