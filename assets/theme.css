@@ -19,7 +19,7 @@ div.slider-vertical__text > div > div:nth-child(2) {
 
 }
 
-div.slider-vertical__text > div > div:nth-child(2) > h3 {
+div.slider-vertical__text > div > div:nth-child(2) > h3 > p {
   background: rgba(0, 0, 0, 0.5);
   color: #fff;
   padding: 0 20px 0 20px;
