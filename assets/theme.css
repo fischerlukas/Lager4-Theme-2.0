@@ -6,6 +6,16 @@
 * Custom CSS Start
 */
 
+/* Slider Start*/
+.slider-vertical__slides::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.1); /* Halbtransparenter Hintergrund */
+  z-index: 50;
+}
+/* Slider End*/
+
 /* Cookie Banner Start*/
 #shopify-pc__banner {
   border-top-left-radius: 40px;
