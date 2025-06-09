@@ -42,21 +42,6 @@
             "scroll_speed": 2
           }
         },
-        "3cd23f4b-1b25-4b72-8a40-ab007525cf7c": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/9_350_110_2.jpg",
-            "link": "",
-            "offset_width": 30,
-            "offset_x": 25,
-            "offset_y": 115,
-            "hide_on_mobile": false,
-            "offset_width_mobile": 20,
-            "offset_x_mobile": 65,
-            "offset_y_mobile": 90,
-            "scroll_speed": 4
-          }
-        },
         "1662457455b8401316-0": {
           "type": "image",
           "settings": {
@@ -72,13 +57,44 @@
             "scroll_speed": 10
           }
         },
+        "1662457455b8401316-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Staenderbaugruppen.jpg",
+            "link": "",
+            "offset_width": 30,
+            "offset_x": 65,
+            "offset_y": 40,
+            "hide_on_mobile": false,
+            "offset_width_mobile": 65,
+            "offset_x_mobile": 45,
+            "offset_y_mobile": 50,
+            "scroll_speed": 2
+          }
+        },
+        "3cd23f4b-1b25-4b72-8a40-ab007525cf7c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/9_350_110_2.jpg",
+            "link": "",
+            "offset_width": 30,
+            "offset_x": 25,
+            "offset_y": 115,
+            "hide_on_mobile": false,
+            "offset_width_mobile": 20,
+            "offset_x_mobile": 65,
+            "offset_y_mobile": 90,
+            "scroll_speed": 4
+          }
+        },
         "1662457455b8401316-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Staenderprofile_ac8be2fd-1f3c-4a4e-bb73-62ad30045cff.jpg",
             "link": "",
-            "offset_width": 15,
-            "offset_x": 75,
-            "offset_y": 130,
+            "offset_width": 35,
+            "offset_x": 15,
+            "offset_y": 20,
             "hide_on_mobile": false,
             "offset_width_mobile": 35,
             "offset_x_mobile": 20,
@@ -89,6 +105,7 @@
         "1662457455b8401316-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Anfahrschutz_bab6e970-c163-4994-aed0-5a1d3225140d.jpg",
             "link": "",
             "offset_width": 20,
             "offset_x": 5,
@@ -100,29 +117,31 @@
             "scroll_speed": 7
           }
         },
-        "1662457455b8401316-3": {
+        "image_4HcyhR": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/6000_9900_110_3000_2Ebenen_0d167f0d-a8a1-4166-913f-c79e13f7a85d.jpg",
             "link": "",
-            "offset_width": 30,
-            "offset_x": 65,
-            "offset_y": 40,
+            "offset_width": 40,
+            "offset_x": 10,
+            "offset_y": 5,
             "hide_on_mobile": false,
-            "offset_width_mobile": 65,
-            "offset_x_mobile": 45,
-            "offset_y_mobile": 50,
-            "scroll_speed": 2
+            "offset_width_mobile": 25,
+            "offset_x_mobile": 30,
+            "offset_y_mobile": 40,
+            "scroll_speed": 0
           }
         }
       },
       "block_order": [
         "82174a03-4a06-44b2-828a-c31c20320900",
         "ded10f28-7867-4ef6-8fd2-f14240db0d7c",
-        "3cd23f4b-1b25-4b72-8a40-ab007525cf7c",
         "1662457455b8401316-0",
+        "1662457455b8401316-3",
+        "3cd23f4b-1b25-4b72-8a40-ab007525cf7c",
         "1662457455b8401316-1",
         "1662457455b8401316-2",
-        "1662457455b8401316-3"
+        "image_4HcyhR"
       ],
       "settings": {
         "caption": "Lager4",
