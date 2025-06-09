@@ -138,7 +138,7 @@
         "color_text_main": "#ffffff",
         "border_radius": 20,
         "add_top_margin": false,
-        "remove_inner_padding": false,
+        "remove_inner_padding": true,
         "seo_h_tag": "h3"
       }
     },
