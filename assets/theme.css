@@ -14,6 +14,15 @@
   background: rgba(0, 0, 0, 0.1); /* Halbtransparenter Hintergrund */
   z-index: 50;
 }
+
+div.slider-vertical__text > div > div:nth-child(2) {
+  background-color: rgba(0,0,0,0.3);
+}
+
+div.slider-vertical__text > div > div:nth-child(2) > h3 {
+  color: #fff;
+  padding: 0 20px 0 20px;
+}
 /* Slider End*/
 
 /* Cookie Banner Start*/
