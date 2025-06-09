@@ -99,7 +99,7 @@
             "offset_width_mobile": 25,
             "offset_x_mobile": 30,
             "offset_y_mobile": 40,
-            "scroll_speed": 0
+            "scroll_speed": -5
           }
         }
       },
