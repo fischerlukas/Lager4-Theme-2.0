@@ -36,9 +36,9 @@
             "offset_x": 75,
             "offset_y": 25,
             "hide_on_mobile": true,
-            "offset_width_mobile": 80,
+            "offset_width_mobile": 40,
             "offset_x_mobile": 45,
-            "offset_y_mobile": 50,
+            "offset_y_mobile": 25,
             "scroll_speed": 5
           }
         },
@@ -50,10 +50,10 @@
             "offset_width": 35,
             "offset_x": 15,
             "offset_y": 55,
-            "hide_on_mobile": true,
+            "hide_on_mobile": false,
             "offset_width_mobile": 80,
-            "offset_x_mobile": -5,
-            "offset_y_mobile": 70,
+            "offset_x_mobile": 10,
+            "offset_y_mobile": 40,
             "scroll_speed": -5
           }
         },
