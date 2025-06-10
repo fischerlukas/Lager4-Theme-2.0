@@ -12,36 +12,6 @@
     "1662457455386507d1": {
       "type": "slider",
       "blocks": {
-        "82174a03-4a06-44b2-828a-c31c20320900": {
-          "type": "icon",
-          "disabled": true,
-          "settings": {
-            "icon_size": 64,
-            "offset_x": 65,
-            "offset_y": 145,
-            "hide_on_mobile": false,
-            "offset_x_mobile": 70,
-            "offset_y_mobile": 0,
-            "scroll_speed": -5
-          }
-        },
-        "ded10f28-7867-4ef6-8fd2-f14240db0d7c": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "content": "<p>Write a short statement or product description. Inform your customers about brand content.</p>",
-            "content_color": "#000000",
-            "content_background": "rgba(0,0,0,0)",
-            "offset_width": 15,
-            "offset_x": 15,
-            "offset_y": 50,
-            "hide_on_mobile": true,
-            "offset_width_mobile": 35,
-            "offset_x_mobile": 60,
-            "offset_y_mobile": 50,
-            "scroll_speed": 2
-          }
-        },
         "1662457455b8401316-0": {
           "type": "image",
           "settings": {
@@ -54,7 +24,7 @@
             "offset_width_mobile": 25,
             "offset_x_mobile": 5,
             "offset_y_mobile": 60,
-            "scroll_speed": 0
+            "scroll_speed": 7
           }
         },
         "1662457455b8401316-3": {
@@ -94,18 +64,16 @@
             "link": "",
             "offset_width": 40,
             "offset_x": 10,
-            "offset_y": 5,
+            "offset_y": 10,
             "hide_on_mobile": false,
             "offset_width_mobile": 25,
             "offset_x_mobile": 30,
             "offset_y_mobile": 40,
-            "scroll_speed": -5
+            "scroll_speed": -7
           }
         }
       },
       "block_order": [
-        "82174a03-4a06-44b2-828a-c31c20320900",
-        "ded10f28-7867-4ef6-8fd2-f14240db0d7c",
         "1662457455b8401316-0",
         "1662457455b8401316-3",
         "1662457455b8401316-1",
@@ -113,7 +81,7 @@
       ],
       "settings": {
         "caption": "Lager4",
-        "title": "<p>Hochwertige Palettenregale zu fairen Preisen</p>",
+        "title": "<p>Hochwertige Palettenregale für dein Lager</p>",
         "button_label": "Passende Regale finden",
         "button_link": "shopify://collections/palettenregale",
         "alignment": "horizontal-center align-content--vertical-middle",
