@@ -18,13 +18,13 @@
             "image": "shopify://shop_images/550_110_4.jpg",
             "link": "",
             "offset_width": 35,
-            "offset_x": 50,
+            "offset_x": 60,
             "offset_y": 85,
             "hide_on_mobile": false,
             "offset_width_mobile": 25,
             "offset_x_mobile": 5,
             "offset_y_mobile": 60,
-            "scroll_speed": 7
+            "scroll_speed": 1
           }
         },
         "1662457455b8401316-3": {
