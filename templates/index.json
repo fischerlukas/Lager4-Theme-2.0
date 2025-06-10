@@ -21,9 +21,9 @@
             "offset_x": 60,
             "offset_y": 85,
             "hide_on_mobile": false,
-            "offset_width_mobile": 25,
-            "offset_x_mobile": 5,
-            "offset_y_mobile": 60,
+            "offset_width_mobile": 80,
+            "offset_x_mobile": 0,
+            "offset_y_mobile": 65,
             "scroll_speed": 1
           }
         },
@@ -36,7 +36,7 @@
             "offset_x": 75,
             "offset_y": 25,
             "hide_on_mobile": true,
-            "offset_width_mobile": 65,
+            "offset_width_mobile": 80,
             "offset_x_mobile": 45,
             "offset_y_mobile": 50,
             "scroll_speed": 5
@@ -66,8 +66,8 @@
             "offset_x": 10,
             "offset_y": 10,
             "hide_on_mobile": false,
-            "offset_width_mobile": 70,
-            "offset_x_mobile": 0,
+            "offset_width_mobile": 80,
+            "offset_x_mobile": 20,
             "offset_y_mobile": 10,
             "scroll_speed": -7
           }
