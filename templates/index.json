@@ -51,9 +51,9 @@
             "offset_x": 15,
             "offset_y": 55,
             "hide_on_mobile": false,
-            "offset_width_mobile": 35,
-            "offset_x_mobile": 20,
-            "offset_y_mobile": 105,
+            "offset_width_mobile": 80,
+            "offset_x_mobile": -5,
+            "offset_y_mobile": 70,
             "scroll_speed": -5
           }
         },
