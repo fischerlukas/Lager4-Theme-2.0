@@ -68,7 +68,7 @@
             "hide_on_mobile": false,
             "offset_width_mobile": 70,
             "offset_x_mobile": 0,
-            "offset_y_mobile": 10,
+            "offset_y_mobile": 0,
             "scroll_speed": -7
           }
         }
