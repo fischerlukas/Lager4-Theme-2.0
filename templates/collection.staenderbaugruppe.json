@@ -34,7 +34,7 @@
         "border_radius": 0,
         "color_text": "#000000",
         "color_background": "#ffffff",
-        "gutter_decrease": false,
+        "gutter_decrease": true,
         "seo_h_tag": "h2"
       }
     },
