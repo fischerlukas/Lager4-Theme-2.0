@@ -73,7 +73,9 @@
         "price",
         "quick_buy"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".container--vertical-space {margin-top: 30px;}"
+      ],
       "settings": {
         "products_number": 12,
         "enable_filtering": true,
