@@ -49,7 +49,7 @@ div.slider-vertical__text > div > div:nth-child(2) > h3 > p {
 /* Cookie Banner End*/
 
 /* Filter styling Start*/
-div.hot-spots > div.container--vertical-space {
+div.hot-spots + div.container--vertical-space {
   margin-top: 10px !important;
 }
 
