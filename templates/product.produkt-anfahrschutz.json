@@ -107,11 +107,11 @@
     "text_columns_KH84tq": {
       "type": "text-columns",
       "blocks": {
-        "text_NtzXrT": {
+        "text_QQUDNN": {
           "type": "text",
           "settings": {
-            "title": "kostenloser Versand",
-            "caption": "<p>innerhalb von 1 bis 6 Werktagen</p>",
+            "title": "5 Jahre Garantie",
+            "caption": "<p>mit unkompliziertem Direktaustausch</p>",
             "seo_h_tag": "h3"
           }
         },
@@ -123,19 +123,19 @@
             "seo_h_tag": "h3"
           }
         },
-        "text_QQUDNN": {
+        "text_NtzXrT": {
           "type": "text",
           "settings": {
-            "title": "5 Jahre Garantie",
-            "caption": "<p>mit unkompliziertem Direktaustausch</p>",
+            "title": "vollständiger Ersatzteilkatalog",
+            "caption": "<p>jederzeit im Shop verfügbar</p>",
             "seo_h_tag": "h3"
           }
         }
       },
       "block_order": [
-        "text_NtzXrT",
+        "text_QQUDNN",
         "text_7gxqCB",
-        "text_QQUDNN"
+        "text_NtzXrT"
       ],
       "settings": {
         "layout": "grid-3 grid-lap-1",
